@@ -1,5 +1,5 @@
 {
-  "name": "use-github",
+  "name": "react-use-github",
   "version": "1.0.0",
   "description": "Custom hooks for React for working with GitHub's API.",
   "main": "index.js",
